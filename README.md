@@ -1,1 +1,1 @@
-# student-front
+# stucon-front
